@@ -99,10 +99,9 @@ To mitigate this vulnerability:
 
 Application rendering the injected HTML anchor tag.
 
-```
+
 <img width="975" height="510" alt="image" src="https://github.com/user-attachments/assets/5858b1d1-3c8a-4223-a275-e6e3ae53e3b2" />
 
-```
 
 ---
 
@@ -110,10 +109,9 @@ Application rendering the injected HTML anchor tag.
 
 Source code showing the injected HTML rendered in the application's response.
 
-```
+
 <img width="975" height="256" alt="image" src="https://github.com/user-attachments/assets/ed4b673d-3183-4714-b404-9d9ff65c076b" />
 
-```
 
 ---
 
