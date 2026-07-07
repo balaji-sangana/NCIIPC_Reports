@@ -11,7 +11,8 @@ A collection of sanitized cybersecurity vulnerability reports submitted through 
 | Organization | Vulnerability | Severity |
 |--------------|---------------|----------|
 | Bureau of Indian Standards (BIS) | HTML Injection | Critical |
-| India Brand Equity Foundation (IBEF) | Cross-Site Scripting (XSS) | High |
+| India Brand Equity Foundation (IBEF) | Cross-Site Scripting (XSS) | Critical |
+| Petroleum Planning & Analysis Cell (PPAC) | Cross-Site Scripting (XSS) | Critical |
 
 ## Vulnerability Categories
 
